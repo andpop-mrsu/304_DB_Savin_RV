@@ -1,0 +1,18 @@
+SQLite version: 3.50.4
+
+Available output modes:
+- ascii
+- box
+- csv
+- column
+- html
+- insert
+- json
+- line
+- list
+- markdown
+- qbox
+- quote
+- table
+- tabs
+- tcl
